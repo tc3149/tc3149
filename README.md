@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Thanks for visiting my Github! My name is Thomas, you can learn more about me on my [site!](thomasc.me)
+Thanks for visiting my Github! My name is Thomas, you can learn more about me on my [site!](https://thomasc.me)
