@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Thanks for visiting my Github! My name is Thomas, you can learn more about me on my [site!](https://thomasc.me)
+Thanks for visiting my Github! My name is Thomas, currently a Third Year student studying at the University of New South Wales
+
+* ✍️ Currently working on my personal [site](https://thomasc.me) and a POS mobile app called Possum
