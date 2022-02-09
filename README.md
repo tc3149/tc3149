@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 Thanks for visiting my Github! My name is Thomas, currently a third year student studying Computer Science at the University of New South Wales
 
 * ✍️ Currently working on my personal [site](https://thomasc.me) and a POS mobile app called Possum
+* Grinding Data Structures & Algorithms
 * ✨ Looking for internships! 
