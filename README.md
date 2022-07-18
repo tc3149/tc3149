@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Thanks for visiting my Github! My name is Thomas, currently a third year student studying Computer Science at the University of New South Wales
+Thanks for visiting my Github! My name is Thomas, currently a third year student studying Commerce/CompSci at the University of New South Wales
 
-* ✍️ Currently working on my personal [site](https://thomasc.me) and a POS mobile app called Possum
-* Grinding Data Structures & Algorithms
-* ✨ Looking for internships! 
+* Interning at Optus for Cyber Security (or Security Engineering)
+* Working at an early stage startup called Qwokka.io
+* Creating something awesome with a friend ✨ (social networks)
