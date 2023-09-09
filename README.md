@@ -20,3 +20,4 @@ Thanks for visiting my Github! My name is Thomas, currently a fourth year studen
 * Interned at Optus for Cyber Security
 * Worked at an early stage startup called Qwokka.io doing Full-stack Development
 * Created a media startup MVP and pitch for Startmate
+* IT Director for 2 Societies at UNSW (I4C and RealSoc)
