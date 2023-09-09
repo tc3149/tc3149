@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Thanks for visiting my Github! My name is Thomas, currently a third year student studying Commerce/CompSci at the University of New South Wales
+Thanks for visiting my Github! My name is Thomas, currently a fourth year student studying Commerce/CompSci at the University of New South Wales
 
-* Interning at Optus for Cyber Security (or Security Engineering)
-* Working at an early stage startup called Qwokka.io
-* Creating something awesome with a friend ✨ (social networks)
+* Interned at Optus for Cyber Security
+* Worked at an early stage startup called Qwokka.io doing Full-stack Development
+* Created a media startup MVP and pitch for Startmate
